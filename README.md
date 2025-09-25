@@ -35,7 +35,11 @@
   <img src="/images/3.jpg" alt="Screenshot 2" width="45%"/>
 </p>
 <br>
+
+---
+
 ##📝 Start & Signup :-
+
 <br>
 <p align="center">
   <img src="/images/4.jpg" alt="Screenshot 1" width="45%"/>
@@ -43,6 +47,9 @@
 </p>
 
 <br>
+
+---
+
 ##🍽️ Menus :- 
 <br>
 <p align="center">
@@ -50,20 +57,30 @@
   <img src="/images/7.jpg" alt="Screenshot 2" width="45%"/>
 </p>
 <br>
+
+---
+
 ## 🛒 Your Cart and Your Wallet :-
+
 <br>
 <p align="center">
   <img src="/images/8.jpg" alt="Screenshot 1" width="45%"/>
   <img src="/images/9.jpg" alt="Screenshot 2" width="45%"/>
 </p>
 <br>
+
+---
 ##💰 Your Balance and Account :- 
+
 <br>
 <p align="center">
   <img src="/images/10.jpg" alt="Screenshot 1" width="45%"/>
   <img src="/images/11.jpg" alt="Screenshot 2" width="45%"/>
 </p>
 <br>
+
+---
+
 ##🛠️ Admin panel :- 
 <br>
 <p align="center">
