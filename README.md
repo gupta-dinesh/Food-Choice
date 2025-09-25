@@ -38,7 +38,7 @@
 
 ---
 
-##📝 Start & Signup :-
+## 📝 Start & Signup :-
 
 <br>
 <p align="center">
@@ -50,7 +50,7 @@
 
 ---
 
-##🍽️ Menus :- 
+## 🍽️ Menus :- 
 <br>
 <p align="center">
   <img src="/images/6.jpg" alt="Screenshot 1" width="45%"/>
@@ -70,7 +70,7 @@
 <br>
 
 ---
-##💰 Your Balance and Account :- 
+## 💰 Your Balance and Account :- 
 
 <br>
 <p align="center">
@@ -81,7 +81,7 @@
 
 ---
 
-##🛠️ Admin panel :- 
+## 🛠️ Admin panel :- 
 <br>
 <p align="center">
   <img src="/images/12.jpg" alt="Screenshot 1" width="45%"/>
