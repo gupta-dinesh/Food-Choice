@@ -1,56 +1,76 @@
-# food_delivery
+# 🍔 Food Choice – Cross-Platform Food Ordering App
 
-A new Flutter project.
+**Food Choice** is a feature-rich **cross-platform food ordering application** built with **Flutter** and **Dart**, featuring dedicated user and admin panels. Users can browse restaurants, place orders, and manage their wallet with secure transactions via **Stripe Payment Gateway**.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 👤 **User & Admin Panels** – Manage orders, menus, and users efficiently  
+- 📱 **Cross-Platform Support** – Works on both Android & iOS  
+- 🔒 **Firebase Authentication** – Secure login/signup for users  
+- ☁️ **Cloud Firestore** – Real-time and scalable data storage  
+- 💳 **Wallet Integration** – Secure payments using **Stripe Payment Gateway**  
+- 🎨 **Modern UI/UX** – Smooth animations, interactive dashboards, and seamless navigation  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
 
-### Onboarding :- 
+- **Flutter** & **Dart**  
+- **Firebase** (Authentication, Cloud Firestore)  
+- **Stripe Payment Gateway**  
+- **Android Studio / VS Code**  
+
+## 📲 Onboarding :- 
 
 <p align="center">
   <img src="/images/1.jpg" alt="Screenshot 1" width="45%"/>
   <img src="/images/2.jpg" alt="Screenshot 2" width="45%"/>
 </p>
 <br>
+<br>
 <p align="center">
   <img src="/images/2.jpg" alt="Screenshot 1" width="45%"/>
   <img src="/images/3.jpg" alt="Screenshot 2" width="45%"/>
 </p>
-
+<br>
+## 📝 Start & Signup :-
 <br>
 <p align="center">
   <img src="/images/4.jpg" alt="Screenshot 1" width="45%"/>
   <img src="/images/5.jpg" alt="Screenshot 2" width="45%"/>
 </p>
+
+<br>
+##🍽️ Menus :- 
 <br>
 <p align="center">
   <img src="/images/6.jpg" alt="Screenshot 1" width="45%"/>
   <img src="/images/7.jpg" alt="Screenshot 2" width="45%"/>
 </p>
 <br>
+## 🛒 Your Cart and Your Wallet :-
+<br>
 <p align="center">
   <img src="/images/8.jpg" alt="Screenshot 1" width="45%"/>
   <img src="/images/9.jpg" alt="Screenshot 2" width="45%"/>
 </p>
-
+<br>
+## 💰 Your Balance and Account :- 
 <br>
 <p align="center">
   <img src="/images/10.jpg" alt="Screenshot 1" width="45%"/>
   <img src="/images/11.jpg" alt="Screenshot 2" width="45%"/>
 </p>
-
+<br>
+## 🛠️ Admin panel :- 
 <br>
 <p align="center">
   <img src="/images/12.jpg" alt="Screenshot 1" width="45%"/>
   <img src="/images/13.jpg" alt="Screenshot 2" width="45%"/>
+</p>
+<br>
+<p align="center">
+  <img src="/images/14.jpg" alt="Screenshot 2" width="45%"/>
 </p>
